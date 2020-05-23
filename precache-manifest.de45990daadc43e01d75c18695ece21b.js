@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
     "revision": "d9000cee20eeb9365cbd62fe178e7d4d",
-    "url": "/static/media/Bharath Raj Resume.d9000cee.pdf"
+    "url": "/static/media/ishan_CV_SE.pdf"
   },
   {
     "revision": "229c360febb4351a89df",
